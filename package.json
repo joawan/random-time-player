@@ -1,0 +1,22 @@
+{
+  "name": "random-time-player",
+  "version": "0.1.0",
+  "description": "Plays given sound at random time within given interval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joawan/random-time-player.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joawan/random-time-player/issues"
+  },
+  "homepage": "https://github.com/joawan/random-time-player#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "play-sound": "0.0.7"
+  }
+}
